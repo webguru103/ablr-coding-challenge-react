@@ -1,0 +1,55 @@
+{
+  "count": 9,
+  "next": "page_2.json",
+  "previous": null,
+  "results": [
+    {
+      "slug": "apple-orchard-road",
+      "merchant": {
+        "title": "Apple",
+        "category": "Electronics",
+        "logo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/merchant/2020/04/16/49c019be-4d40-4bc5-ad64-e518127d612c_Logo_apple_emajab"
+      },
+      "title": "Apple Orchard Road",
+      "location": "270 Orchard Rd, Singapore 238857",
+      "phone": "",
+      "photo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/store/2020/04/16/67cde478-b81c-4455-aebb-fe986eb6c283_Store_image_apple_tphtbg"
+    },
+    {
+      "slug": "nike-imm",
+      "merchant": {
+        "title": "Nike",
+        "category": "Fashion",
+        "logo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/merchant/2020/04/16/683f8090-cb63-48c6-81fa-893c208779dc_Logo_nike_u3heyy"
+      },
+      "title": "Nike IMM",
+      "location": "IMM",
+      "phone": "",
+      "photo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/store/2020/04/16/cb2f0baf-cb02-4f12-a4a0-adb7febf6a61_Nike_IMM_bpeq7c"
+    },
+    {
+      "slug": "nike-jewel",
+      "merchant": {
+        "title": "Nike",
+        "category": "Fashion",
+        "logo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/merchant/2020/04/16/683f8090-cb63-48c6-81fa-893c208779dc_Logo_nike_u3heyy"
+      },
+      "title": "Nike Jewel",
+      "location": "Jewel Changi Airport",
+      "phone": "",
+      "photo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/store/2020/04/16/48179f3f-80de-475f-86b6-5af2878074a6_Store_image_nike_atbohx"
+    },
+    {
+      "slug": "starhub-ion",
+      "merchant": {
+        "title": "Starhub",
+        "category": "Telecommunications",
+        "logo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/merchant/2020/04/16/66c60fec-1264-484a-88ef-c03473151b9c_Logo_starhub_o11ccp"
+      },
+      "title": "Starhub",
+      "location": "ION Orchard Mall",
+      "phone": "",
+      "photo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/store/2020/04/16/164a69b6-f130-4215-94be-89aa9f1dd7c8_Store_image_starhub_qest2c"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "count": 9,
+  "next": null,
+  "previous": "page_2.json",
+  "results": [
+    {
+      "slug": "samsung-experience-store",
+      "merchant": {
+        "title": "Samsung",
+        "category": "Electronics",
+        "logo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/merchant/2020/04/16/4892cd52-9538-4ccc-8621-a1ab3ba0fa52_Logo__samsung_orkwdv"
+      },
+      "title": "Samsung Experience Store",
+      "location": "Bugis Junction",
+      "phone": "",
+      "photo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/store/2020/04/16/53476d17-a9cb-49c2-806e-368d6725416e_Store_image_samsung_kci4ie"
+    }
+  ]
+}

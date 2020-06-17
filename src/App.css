@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.view-more {
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+.view-more span {
+  line-height: 12px;
+}
+
+.empty-more {
+  font-size: 1.125rem;
+  color: #343a408d;
+  font-weight: 600;
+}

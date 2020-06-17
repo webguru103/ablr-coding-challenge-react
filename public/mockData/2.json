@@ -1,0 +1,55 @@
+{
+  "count": 9,
+  "next": "page_3.json",
+  "previous": "page_1.json",
+  "results": [
+    {
+      "slug": "huawei-313",
+      "merchant": {
+        "title": "Huawei",
+        "category": "Electronics",
+        "logo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/merchant/2020/04/16/efca7279-a747-46ac-a6f9-c1e0d32680d4_Logo_huawei_yiwojc"
+      },
+      "title": "Huawei",
+      "location": "313@somerset",
+      "phone": "",
+      "photo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/store/2020/04/16/9f75994d-1eb5-4852-8c50-a3d8f0c91251_Store_image_huawei_jfiq7u"
+    },
+    {
+      "slug": "gain-city-marina-square",
+      "merchant": {
+        "title": "Gain City",
+        "category": "Electronics",
+        "logo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/merchant/2020/04/16/3df9b255-396e-4224-a01f-b6caf26eec89_Logo_gaincity_txwsum"
+      },
+      "title": "Gain City",
+      "location": "Marina Square",
+      "phone": "",
+      "photo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/store/2020/04/16/757fd854-65ac-42d8-8921-c81adbf3bcab_Store_image_gaincity_meu79x"
+    },
+    {
+      "slug": "ikea-alexandra",
+      "merchant": {
+        "title": "IKEA",
+        "category": "Furniture",
+        "logo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/merchant/2020/04/16/d5ccfc67-5fc2-4005-9c4b-dec4a7ef75d4_Logo_ikea_dqfahz"
+      },
+      "title": "IKEA Alexandra",
+      "location": "317 Alexandra Rd, Singapore 159965",
+      "phone": "",
+      "photo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/store/2020/04/16/4280f917-6744-4e18-ad37-e950434afe38_Store_image_ikea_blq9xl"
+    },
+    {
+      "slug": "ikea-tampines",
+      "merchant": {
+        "title": "IKEA",
+        "category": "Furniture",
+        "logo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/merchant/2020/04/16/d5ccfc67-5fc2-4005-9c4b-dec4a7ef75d4_Logo_ikea_dqfahz"
+      },
+      "title": "IKEA Tampines",
+      "location": "60 Tampines North Drive 2, Singapore 528764",
+      "phone": "",
+      "photo": "https://res.cloudinary.com/hflj9cmhy/image/upload/v1/media/uploads/merchants/store/2020/04/16/4d2163b6-9e84-4fdf-a286-f81ef3474d12_IKEA-Tampines_bjjwwm"
+    }
+  ]
+}
